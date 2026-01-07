@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#FF0F0F0F</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="background">#FFF8F9FA</color>
+    <color name="surface">#FFFFFFFF</color>
+    <color name="divider">#FFE0E0E0</color>
+
+    <color name="textPrimary">#FF1C1C1C</color>
+    <color name="textSecondary">#FF6E6E6E</color>
+    <color name="textDisabled">#FF9E9E9E</color>
+
+    <color name="accent">#FF2D2D2D</color>
+
+    <color name="error">#FFB00020</color>
+    <color name="success">#FF2E7D32</color>
+    <color name="warning">#FFF9A825</color>
+
+    <color name="bankColor">#FF2F2F2F</color>
+    <color name="cashColor">#FF4A4A4A</color>
+    <color name="cardColor">#FF1E1E1E</color>
+    <color name="defaultColor">#FF6B6B6B</color>
+
+    <color name="blue">@color/accent</color>
+    <color name="light_blue">@color/accent</color>
+    <color name="buttonBlue">#FF2196F3</color>
+    <color name="red">@color/error</color>
+    <color name="green">@color/success</color>
+    <color name="purple">@color/accent</color>
+    <color name="yellow">@color/warning</color>
+    <color name="textColor">@color/textPrimary</color>
+
+</resources>

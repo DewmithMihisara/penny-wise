@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/trans"
+        android:icon="@drawable/ic_trans"
+        android:title="Trans." />
+    <item
+        android:id="@+id/stats"
+        android:icon="@drawable/stats"
+        android:title="Stats" />
+    <item
+        android:id="@+id/more"
+        android:icon="@drawable/ic_more"
+        android:title="More" />
+</menu>
