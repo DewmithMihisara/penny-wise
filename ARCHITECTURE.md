@@ -88,12 +88,3 @@ com.example.expensemanager/
     └── fragments/
 ```
 
-## Next Steps (Future Improvements)
-
-1. Add use cases/interactors for business logic
-2. Implement dependency injection framework (Dagger/Hilt)
-3. Migrate to Room Database for better type safety
-4. Add unit tests for domain and data layers
-5. Implement error handling strategies
-6. Add data classes for better immutability
-
