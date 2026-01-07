@@ -1,7 +1,5 @@
 # PennyWise - Expense Tracker App
 
-Developed by Dewmith Mihisara
-
 ## Overview
 
 PennyWise is a modern Android expense tracking application built with Clean Architecture principles. It helps users track their income and expenses, view statistics, and manage their financial data efficiently.
@@ -62,8 +60,4 @@ app/src/main/java/com/example/expensemanager/
 ```bash
 ./gradlew installDebug
 ```
-
-## License
-
-Developed by Dewmith Mihisara
 
